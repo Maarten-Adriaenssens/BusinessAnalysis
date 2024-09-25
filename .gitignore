@@ -133,3 +133,4 @@ sympy-plots-for-*.tex/
 
 # Output directory
 out/
+.vscode/settings.json
