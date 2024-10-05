@@ -11,4 +11,6 @@
 3. project management in systeembeheerprojecten (vraag 6)
    → De meeste project management methodologieën lijken opgezet met software-ontwikkeling of implementatie van pakketten in het achterhoofd. Zijn ze ook toepasbaar op systeembeheer, bijv. op een project voor de migratie naar een nieuwe versie van een OS? Wat zijn in de praktijk de gelijkenissen en de verschilpunten met projecten voor software-ontwikkeling of implementatie?
 
-► Wachten op feedback prof (Peter Beke)
+► ~~Wachten op feedback prof (Peter Beke)~~
+
+► Gekozen onderwerp (1):  Wat als een klein team agile wil werken aan meerdere projecten? (vraag 5)
