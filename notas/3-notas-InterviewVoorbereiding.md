@@ -44,3 +44,10 @@ Hier zijn 15 vragen die je kunt stellen tijdens een interview over de uitdaginge
 15. **Hoe kan een klein team de werklast van de product owner en scrum master verminderen bij het werken aan meerdere projecten?** (Deze vraag gaat over het verdelen van taken en verantwoordelijkheden.)
 
 **Tip:** Door deze vragen te stellen, krijg je een goed inzicht in de uitdagingen en kansen die gepaard gaan met Agile werken in kleine teams met meerdere projecten. Je kunt de vragen aanpassen aan de specifieke context van het interview en de ervaring van de geïnterviewde.
+
+
+1. wat zijn de grootste problemen bij een agile werkmethode in kleine teams bij meerdere projecten?
+
+2. Is er sprake van resources scatter omwille van deze werkmethode?
+
+3. zijn er voordelen gebonden aan de kleine teams?
