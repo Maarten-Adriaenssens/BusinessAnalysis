@@ -2,10 +2,10 @@
 
 ## Bedrijf
 
-- proxiomus
+- Proximus
 - Easi
 - Vandemoortele
-- Smort eye
+- Smart eye
 
 ## Vragen
 
