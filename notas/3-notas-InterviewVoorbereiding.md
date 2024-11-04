@@ -45,7 +45,6 @@ Hier zijn 15 vragen die je kunt stellen tijdens een interview over de uitdaginge
 
 **Tip:** Door deze vragen te stellen, krijg je een goed inzicht in de uitdagingen en kansen die gepaard gaan met Agile werken in kleine teams met meerdere projecten. Je kunt de vragen aanpassen aan de specifieke context van het interview en de ervaring van de geïnterviewde.
 
-
 Algemene ijsbrekers:
 
 - Hoeveel teamleden
@@ -56,11 +55,11 @@ Algemene ijsbrekers:
 1. Hoe kan een klein team effectief samenwerken aan meerdere projecten zonder overbelast te raken?
 zijn er voordelen gebonden aan de kleine teams?
 
-2. Is er sprake van resources scatter omwille van deze werkmethode?
-Hoe kan een klein team de balans vinden tussen het werken aan meerdere projecten en het behouden van de flexibiliteit die inherent is aan Agile?
+2. Hoe kan een klein team de balans vinden tussen het werken aan meerdere projecten en het behouden van de flexibiliteit die inherent is aan Agile?
+Is er sprake van resources scatter omwille van deze werkmethode?
 
-3. Wordt het agile principe over het hele bedrijf gebruikt ?
+3. In welke grote orde wordt het agile principe over het hele bedrijf gebruikt ?
 
-4. Bij noodgevallen, wordt er trouw gebleven aan de agile werkmethode ? (Ticket systeem ?)
+4. Beschrijf hoe het team omgaat met noodgevallen binnen de agile werkmethode.
 
 5. Welke tools of technieken kunnen helpen bij het plannen en beheren van meerdere projecten in een Agile omgeving?

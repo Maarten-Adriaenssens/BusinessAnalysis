@@ -2,7 +2,7 @@
 
 ## Algemene info
 
-**Groepnr:** 5
+**Groepnr:** 5 - Woensdag
 
 **Leden:**
 
@@ -47,6 +47,8 @@ Makkelijke communicatie door intern contact. Er was geweten dat ze op meerdere p
 
 **Status aanvraag interview:** Aanvraag tot interview goedgekeurd. Date TBD
 
+<br>
+
 ### Bedrijf 2
 
 **Naam:** Orbids
@@ -87,4 +89,4 @@ Door een kennismakings-event
 
 Bedrijf profileerde zich als consultancy op short term voor meerdere klanten. We vonden daarom dat dit bedrijf perfect aansloot bij onze onderzoeksvraag.
 
-**Status aanvraag interview:** Aanvraag tot interview goedgekeurd. Date TBD-
+**Status aanvraag interview:** Aanvraag tot interview goedgekeurd. Datum: 29/11 - 13.30
