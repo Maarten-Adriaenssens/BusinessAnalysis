@@ -37,11 +37,24 @@ De planning van Proximus ligt tussen Agile & Waterfall. Het principe dat Proximu
 
 ## Vraag 2: Hoe kan een klein team de balans vinden tussen het werken aan meerdere projecten en het behouden van de flexibiliteit die inherent is aan Agile? Is er sprake van resources scatter omwille van deze werkmethode?
 
-
+Het is de opdracht van de PO-lead & onder ander Alexander om het overzicht van de "Resources" continu te bewaken en een open en continue communicatie met de teams te behouden. Deze taken worden ondersteund door de deadlines. De deadlines zijn een hulpmiddel bij het bewaren van een overzicht. Dit staat ook weer haaks op het agile-werken.
+Er zijn echter uitzonderingne. Zo kunnen de 'Staff' en CEO bepaalde zaken in overleg Overrulen. Verder worden de PO-leads ook gecoached in het 'nee-zeggen'. Dit wordt ook geaccepteerd, indien goed onderbouwt.
 
 ## Vraag 3: In welke grote orde wordt het agile principe over het hele bedrijf gebruikt ?
 
+Agile over Proximus
+Dit wordt op verschillende manieren  bereikt.
 
+In het team van Alexander wordt er gebruik gemaakt van de End-To-End Agile Methode. Dit wordt toegepast met volgende onderdelen:
+
+- Chapters
+- Tribes
+- Sprints
+- Ceremonies
+
+Een andere methode die binnen Proximus wordt toegepast is de Multi-Disciplinaire cirkels. Dit betekent dat met mensen uit verschillende teams samenzetten. Deze medewerkers zijn vaar High-performers. Samen vormen zij een High-Perfromance Team, of ook wel een Steam Circle genoemd. Dit kan vaak als mini-bedrijf binnen Proximus worden beschouwd. Dit team gebruikt been sprints of andere ceremonies. Wel volgen ze de procedures van de delivery.
+
+Algemeen probeert Proximus binnen het bedrijf op zoveel mogelijke manieren de Agile Praktijken en Systemen te introduceren. Maar men moet in het achterhoofd houden dat bij groete bedrijven Agile vaak opbotst tegen de 'budgetaire realiteit'. Het doel is deze 2 uitersten met elkaar te laten samenwerken.
 
 ## Vraag 4: Beschrijf hoe het team omgaat met noodgevallen binnen de agile werkmethode.
 

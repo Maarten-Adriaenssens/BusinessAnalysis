@@ -1,6 +1,7 @@
-# Interview Proximus
+# Interview Orbid
 
-met Alexander Van Iseghem: Teamlead / Chapter Owner
+met Tim Van Roosbroeck: Business Consultant
+en Steven Vandenberghe: Projectmanager
 
 ## Algemene vragen
 
