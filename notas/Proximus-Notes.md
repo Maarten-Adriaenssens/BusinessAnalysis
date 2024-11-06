@@ -58,8 +58,11 @@ Algemeen probeert Proximus binnen het bedrijf op zoveel mogelijke manieren de Ag
 
 ## Vraag 4: Beschrijf hoe het team omgaat met noodgevallen binnen de agile werkmethode.
 
+In het geval van een Outage, is het alle hands aan deck. Er is op dat moment geen tijd voor Agile prinipes. Er is een crisiscentrum genaamd PERTS.
 
+Tijdens noodgevallen is er een prioriteitsverschuiving mogelijk. Dit kan door veranderingen in stories, maar ook door nieuwe projectfacturen.
 
 ## Vraag 5: Welke tools of technieken kunnen helpen bij het plannen en beheren van meerdere projecten in een Agile omgeving?
 
-
+Stories voor projects:
+Dit wordt bereikt door punten toe te kennen. Dit is een vertaling van de noodzakelijke capaciteiten. In het ticket wordt er een duidelijke omschrijving geplaatst. Binnen het team van Alexander, kunnen de experten door hun kennis noodzakeleijk beperkingen zelf in twijfel trekkken indien nodig. 
