@@ -14,3 +14,9 @@
 ► ~~Wachten op feedback prof (Peter Beke)~~
 
 ► Gekozen onderwerp (1):  Wat als een klein team agile wil werken aan meerdere projecten? (vraag 5)
+
+
+HYPTOTHESE:
+
+Agile werken zorgt ervoor dat alle goede ideeën doodgaan in kleine bedrijven.
+Agile werken kan zowel als een drijvende factor voor kleine bedrijven, maar als een remmende factor voor grote bedrijven.
