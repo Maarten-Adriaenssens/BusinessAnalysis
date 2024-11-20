@@ -65,4 +65,21 @@ Tijdens noodgevallen is er een prioriteitsverschuiving mogelijk. Dit kan door ve
 ## Vraag 5: Welke tools of technieken kunnen helpen bij het plannen en beheren van meerdere projecten in een Agile omgeving?
 
 Stories voor projects:
-Dit wordt bereikt door punten toe te kennen. Dit is een vertaling van de noodzakelijke capaciteiten. In het ticket wordt er een duidelijke omschrijving geplaatst. Binnen het team van Alexander, kunnen de experten door hun kennis noodzakeleijk beperkingen zelf in twijfel trekkken indien nodig. 
+Dit wordt bereikt door punten toe te kennen. Dit is een vertaling van de noodzakelijke capaciteiten. In het ticket wordt er een duidelijke omschrijving geplaatst. Binnen het team van Alexander, kunnen de experten door hun kennis noodzakeleijk beperkingen zelf in twijfel trekkken indien nodig. Voor technischje projecten wordt er met een release process gewerkt Dit betekent dat er om het doorvoeren van een wijziging in een release is er een verplichte communicatie. Deze communicatie moet volgende parameters bevatten:
+
+- Impact
+- Verantwoordelijke
+- Rollback documentatie
+- General documentatie
+
+Dit proces wordt ondersteund door intern ontwikkelde tools
+
+Vervolgens is er het aspect van plannen en beheren. Dit verloopt via ceremonies:
+
+- Standup
+- Sharing sessions
+- Review
+- Rolling wave planning (Per Quartaal)
+- Demodagen (Per Quartaal)
+
+Tenslotte worden onnodige meetings vermeden, focus op progress.
